@@ -1,5 +1,9 @@
 <div class="oranda-hide">
-![](https://geps.dev/progress/32?dangerColor=800000&warningColor=ff9900&successColor=006600)
+
+### Current progress
+Progress: 64/94 <br>
+Latest Solved Exercise: `quizzes/quiz2.rs` <br>
+Next Exercise: `exercises/16_lifetimes/lifetimes1.rs` <br>
 
 # rustlings 🦀❤️
 
