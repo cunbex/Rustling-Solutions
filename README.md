@@ -1,9 +1,9 @@
 <div class="oranda-hide">
 
 ### Current progress
-Progress: 67/94 <br>
-Latest Solved Exercise: `exercises/16_lifetimes/lifetimes3.rs` <br>
-Next Exercise: `exercises/17_tests/test1.rs` <br>
+Progress: 70/94 <br>
+Latest Solved Exercise: `exercises/17_tests/test3.rs` <br>
+Next Exercise: `exercises/18_iterators/iterators1.rs` <br>
 
 # rustlings 🦀❤️
 
