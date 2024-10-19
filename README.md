@@ -1,9 +1,9 @@
 <div class="oranda-hide">
 
 ### Current progress
-Progress: 75/94 <br>
-Latest Solved Exercise: `exercises/18_iterators/iterators5.rs` <br>
-Next Exercise: `exercises/19_smart_pointers/box1.rs` <br>
+Progress: 82/94 <br>
+Latest Solved Exercise: `exercises/20_threads/thread3.rs` <br>
+Next Exercise: `exercises/21_macros/macro1.rs` <br>
 
 # rustlings 🦀❤️
 
